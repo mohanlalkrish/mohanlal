@@ -1,5 +1,5 @@
 import java.util.*;
-class strnum
+class strnumb
 {
 public static void main(String args[])
 {
